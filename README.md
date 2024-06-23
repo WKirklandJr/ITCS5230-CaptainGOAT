@@ -1,2 +1,3 @@
 # ITCS5230-CaptainGOAT
- Final Game Prototype for ITCS 5230
+This is my final game prototype for my Intro to Game Development class for Professor Jugan at UNC Charlotte. The game is called Captain G.O.A.T because it is a play on words like GOAT (Greatest of All Time) but with a pirate twist, Gack of All Trades. In the game, you will be the "Gack" of all trades by assuming the role of Captain, Cannoneer, & CrosSworder to accumulate the most renown of any known pirate.
+With this being my first game development project and first time using Unity & C#, I can truly say I've developed an appreciation for games and game developers knowing every single detail is carefully created, designed, coded, and even layered. I hope you enjoy this prototype and I'm SO THANKFUL for the many resources on YouTube that taught me so many mechanics of game development!
